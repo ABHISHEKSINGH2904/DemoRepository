@@ -2,5 +2,6 @@
 using namespace std;
 int main()
 {
-	cout<<"GITHUB";
+	cout<<"GITHUB requested pull";
+	
 }
